@@ -11,5 +11,6 @@ int main()
 {
 	cout << "Hello CMake." << endl;
 	cout << "test";
+	cout << "test2";
 	return 0;
 }
